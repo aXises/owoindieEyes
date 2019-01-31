@@ -1,0 +1,36 @@
+.img-container {
+    position: relative;
+    height: 500px;
+    width: 500px;
+}
+
+#main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+#left, #right {
+    position: absolute;
+}
+
+#left {
+    top: 204px;
+    left: 196px;
+}
+
+#right {
+    top: 235px;
+    left: 305px;
+}
+
+.align-vertical {
+    display: flex;
+    align-items: center;
+}
+
+.align-horizontal {
+    display: flex;
+    justify-content: center;
+}
