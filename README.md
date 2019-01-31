@@ -1,2 +1,2 @@
-# owoindieEyes
+# OwOindieEyes
 Testing some stuff
